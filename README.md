@@ -1,6 +1,6 @@
-# Hi, This is my repository
-###### -Jad Nimer
+# Hi, This is my repository - Jad Nimer
 
+*I like to watch movies and I like to play videogames*
 <!--
 **JadNimer/JadNimer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
