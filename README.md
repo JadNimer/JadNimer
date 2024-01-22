@@ -2,7 +2,14 @@
 
 *Hi, my name is Jad, and I enjoy trying new things. I enjoy playing video games, watching movies, and playing sports. I like to learn a lot and I love adventures.*
 
-![My Image](Jad.png)
+![My Image](Jad.jpg)
+**This is me during my first MUN trip.**
+
+# My Interests
+
+I am interested in a lot of different things. My favorite thing is video games. I enjoy trying different game genres and games with interesting mechanics. My favorite video game of all time is "Detroit Becoming Human".
+
+![My Image](
 
 [Taj Cinemas](https://tajcinemas.com/)
 
