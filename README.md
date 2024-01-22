@@ -1,6 +1,6 @@
-# Hi, This is my repository - Jad Nimer
+# About Me
 
-*I like to watch movies and I like to play videogames*
+*Hi, my name is Jad, and I enjoy trying new things. I enjoy playing video games, watching movies, and playing sports. I like to learn a lot and I love adventures.*
 
 ![My Image](Batman.png)
 
