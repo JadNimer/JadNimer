@@ -2,7 +2,7 @@
 
 *Hi, my name is Jad, and I enjoy trying new things. I enjoy playing video games, watching movies, and playing sports. I like to learn a lot and I love adventures.*
 
-![My Image](Batman.png)
+![My Image](Jad.png)
 
 [Taj Cinemas](https://tajcinemas.com/)
 
